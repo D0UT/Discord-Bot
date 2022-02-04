@@ -1,4 +1,4 @@
-# Discord-Bot
+# Comforting-Discord-Bot
 
 ## Requirements
 * Replit Account
