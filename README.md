@@ -1,4 +1,12 @@
 # Discord-Bot
-# To completely run the code on the background you must code this in a Cloud IDE like repl.it
-# The program will end after an hour so we have to use a service that will ping the replit like uptimerobot.
-# That way the code will run on the background forever.
+
+## Requirements
+* Replit Account
+* Discord Dummy Account
+* The Bot token
+
+## Usage
+* The bot will reply to the detected sad words in the server.
+* It will "comfort" the members of the server
+* The bot can also give inspiring quotes if someone typed ```$inspire ```
+
