@@ -2,7 +2,6 @@
 
 ## Requirements
 * Replit Account
-* Discord Dummy Account
 * The Bot token
 
 ## Usage
